@@ -1,10 +1,3 @@
-/**
- * TaskFlow — Interactive Task Manager
- * Week 2: JavaScript Fundamentals
- * Features: DOM manipulation, event handling, localStorage,
- *           array methods, form validation, drag & drop,
- *           filtering, sorting, search, dark/light mode
- */
 
 class TaskManager {
 
